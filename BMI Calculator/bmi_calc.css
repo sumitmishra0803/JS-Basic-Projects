@@ -1,0 +1,67 @@
+.container{
+    width: 575px;
+    height: 825px;
+    background-color: #6aafff;
+    padding-left: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
+
+h1{
+    position: relative;
+    left: 150px;
+    padding: 15px;
+}
+
+#height,#weight{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+input[type="number"]{
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+p>label{
+    font-size: 20px;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    margin-left: 80px;
+    margin-top: 20px;
+    background-color: gray;
+    color: #fff;
+    font-size: 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid #212121;
+}
+
+#weight-guide{
+    margin: 60px 25px;
+}
+
+#results{
+    width: 110px;
+    padding-left: 40px;
+    margin: 20px 80px;
+    font-size: 25px;
+    color: rgb(241, 241, 241);
+    background-color: blueviolet;
+    border: 2px solid #212121;
+    border-radius: 10px;
+
+}
+
+#guide{
+    margin: 20px 90px;
+    font-size: 25px;
+    color: #212121;
+    
+}
+
