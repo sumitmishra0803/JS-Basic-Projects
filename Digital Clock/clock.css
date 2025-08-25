@@ -1,0 +1,30 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 15vh;
+}
+
+#display{
+    height: 200px;
+    width: 240px;
+    font-size: 40px;
+    background-color: orange;
+    padding: 20px 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
